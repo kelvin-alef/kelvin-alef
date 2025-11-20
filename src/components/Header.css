@@ -63,4 +63,10 @@
   color: #1E1E1E !important;
 }
 
-
+@media (max-width: 768px) {
+  .app-header nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 1.5rem;
+  }
+}

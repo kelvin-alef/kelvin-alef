@@ -38,8 +38,8 @@ function Header() {
         <nav>
           <ul>
             <li><a href="#about" className="resume-button">About</a></li>
-            <li><a href="#success-cases" className="resume-button">Success Cases</a></li>
             <li><a href="#skills" className="resume-button">Skills</a></li>
+            <li><a href="#success-cases" className="resume-button">Success Cases</a></li>
             <li><a href="#contact" className="resume-button">Contact</a></li>
             <li><a href="/kelvin-alef/resume.pdf" target="_blank" rel="noopener noreferrer" className="resume-button">Download Resume</a></li>
           </ul>
